@@ -17,7 +17,7 @@ and avoid the enemies for as long as possible.
 This is a finished version of the game featured in the 'Your first 2D game'
 tutorial in the documentation. For more details, consider
 following the tutorial in the documentation."
-config/tags=PackedStringArray("2d", "demo", "official")
+config/tags=PackedStringArray("2d", "official")
 run/main_scene="res://scenes/levels/main.tscn"
 config/features=PackedStringArray("4.5")
 config/icon="res://icon.webp"
