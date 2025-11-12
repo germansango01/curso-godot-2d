@@ -1,0 +1,30 @@
+# Archivos de Godot generados por el editor:
+.godot/
+export_presets.cfg
+.mono/
+
+# Archivos de caché del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de copia de seguridad (backups)
+*.bak
+*~
+scons_platform.py
+
+# Binarios compilados (para proyectos C#/GDNative/GDExtension)
+bin/
+addons/*/bin/
+
+# Archivos de exportación temporales
+*.pck
+*.zip
+*.x86_64
+*.x86_32
+*.apk
+*.ios
+*.web
+
+# Archivos de usuario/configuración local
+/override.cfg
+/local_config.cfg
