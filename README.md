@@ -1,4 +1,4 @@
-# 🚀 Mi Primer Juego 2D con Godot
+# 🚀 Mi Primer Juego 2D con Godot version 1.0.0
 
 Este es un proyecto de práctica desarrollado siguiendo el tutorial oficial de Godot: **"Tu primer juego 2D"**.
 
